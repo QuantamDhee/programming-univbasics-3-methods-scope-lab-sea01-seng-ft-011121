@@ -13,5 +13,5 @@ def link
 end
 
 def phrase
-  puts 'It's-a me, Mario!'
+  puts "It's-a me, Mario!"
 end
