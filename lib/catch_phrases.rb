@@ -12,4 +12,4 @@ def link
   puts phrase
 end
 
-Mario
+phrase
