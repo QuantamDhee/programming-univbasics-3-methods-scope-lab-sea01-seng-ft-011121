@@ -27,4 +27,3 @@ describe "all_phrases" do
   end
 end
 
-mario
