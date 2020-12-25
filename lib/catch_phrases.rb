@@ -15,3 +15,10 @@ end
 def phrase
   puts "It's-a me, Mario!"
 end
+
+def all_phrase
+  puts phrase
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This."
+  puts "its's-a me, Mario!"
+end
