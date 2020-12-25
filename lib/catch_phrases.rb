@@ -12,4 +12,3 @@ def link
   puts phrase
 end
 
-phrase
